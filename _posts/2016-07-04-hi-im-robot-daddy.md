@@ -1,0 +1,23 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: 'The Community Enrichment Project (CEP) '
+datePublished: '2016-07-24T20:48:57.820Z'
+dateModified: '2016-07-24T20:48:55.238Z'
+title: ''
+author: []
+sourcePath: _posts/2016-07-04-hi-im-robot-daddy.md
+via: {}
+authors: []
+publisher: {}
+starred: false
+url: the-community-enrichment-project-cep/index.html
+_type: Article
+
+---
+The Community Enrichment Project (CEP) 
+
+The mission of the CEP is to provide programming in Wards 7 and 8 in D.C. in order to eradicate the socio-economic issues that plague those areas. The goal is to fix the root issues, not the symptomatic surface level issues. Since finance tends to be the core issue of many of the problems in those areas, building opportunities to create and encourage "healthy wealthy" mentalities among the youth is one of our top priorities. As a part of the CEP we would like to partner with local and national organizations to bring programming to the youth.
