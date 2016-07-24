@@ -1,7 +1,7 @@
 name: 'The Community Enrichment Project '
 favicon: null
-layout_spectrum: 0.9473738167434931
-typography_spectrum: 0.3157402735669166
+layout_spectrum: 0.33116
+typography_spectrum: 0.08809
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9602217592764646
+    - '#ffffff'
+    - '#4e4e4e'
+    - '#7eb574'
+    - '#7e7e7e'
+    - '#dadada'
+  brandStrength: 1
   lightness: 0.8595321683678776
   saturation: 0.5465795078780502
   rhythmicContrast: 0.8904074523597956
